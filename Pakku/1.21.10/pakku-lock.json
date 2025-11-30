@@ -1363,47 +1363,6 @@
             ]
         },
         {
-            "pakku_id": "56LRqFLI9nv7Yr0l",
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "modrinth": "entity-model-features"
-            },
-            "name": {
-                "modrinth": "[EMF] Entity Model Features"
-            },
-            "id": {
-                "modrinth": "4I1XuqiY"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "entity_model_features_1.21.9-fabric-3.0.7.jar",
-                    "mc_versions": [
-                        "1.21.9",
-                        "1.21.10"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/QpujSalM/entity_model_features_1.21.9-fabric-3.0.7.jar",
-                    "id": "QpujSalM",
-                    "parent_id": "4I1XuqiY",
-                    "hashes": {
-                        "sha512": "8e8d5213d2fa8bcf11b32e856b70e1cea621afa94f7fe3df50e91287258cb27ba5d0e701c9e58ad60a7431d16ad5491ae6f4631d833903e969c486eb92a46fde",
-                        "sha1": "ab22afda0eee91f392947e40ac7745b858ece774"
-                    },
-                    "required_dependencies": [
-                        "BVzZfTc1"
-                    ],
-                    "size": 481500,
-                    "date_published": "2025-11-25T09:04:33.197010Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "vWaIv794aT032LJl",
             "type": "MOD",
             "side": "CLIENT",
