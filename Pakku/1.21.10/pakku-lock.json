@@ -1363,45 +1363,6 @@
             ]
         },
         {
-            "pakku_id": "vWaIv794aT032LJl",
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "modrinth": "entitytexturefeatures"
-            },
-            "name": {
-                "modrinth": "[ETF] Entity Texture Features"
-            },
-            "id": {
-                "modrinth": "BVzZfTc1"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "entity_texture_features_1.21.9-fabric-7.0.6.jar",
-                    "mc_versions": [
-                        "1.21.9",
-                        "1.21.10"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/sDFjwI93/entity_texture_features_1.21.9-fabric-7.0.6.jar",
-                    "id": "sDFjwI93",
-                    "parent_id": "BVzZfTc1",
-                    "hashes": {
-                        "sha512": "0d7ba073e2a5896ad849f08ea445b75d9dcfcd92dfe02916216a7d3ad6ef1041511d922c4748daac9e9a569050153ad5ae1609a182536b954e3d439686309c61",
-                        "sha1": "fe7d7be0220f6e46ac9529f26618f8003880a95e"
-                    },
-                    "required_dependencies": [],
-                    "size": 752874,
-                    "date_published": "2025-11-22T15:07:51.647350Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "9DhIZTvJxeModXdz",
             "type": "MOD",
             "side": "CLIENT",
