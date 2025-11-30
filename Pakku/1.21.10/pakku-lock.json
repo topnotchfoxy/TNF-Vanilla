@@ -179,7 +179,7 @@
         {
             "pakku_id": "1vgqinkr20wQXnFL",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "CLIENT",
             "slug": {
                 "modrinth": "carpet"
             },
@@ -612,7 +612,7 @@
         {
             "pakku_id": "tk2Sh9nGHs1OwvLn",
             "type": "MOD",
-            "side": "BOTH",
+            "side": "CLIENT",
             "slug": {
                 "modrinth": "jade"
             },
@@ -651,7 +651,7 @@
         {
             "pakku_id": "VDeZe2fSbje7tGln",
             "type": "MOD",
-            "side": "BOTH",
+            "side": "CLIENT",
             "slug": {
                 "modrinth": "journeymap"
             },
