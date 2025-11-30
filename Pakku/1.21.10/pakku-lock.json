@@ -610,49 +610,6 @@
             ]
         },
         {
-            "pakku_id": "CqaT7R6ILJB8wK1t",
-            "pakku_links": [
-                "3h34elO7jCT2Ebjj"
-            ],
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "modrinth": "item-scroller"
-            },
-            "name": {
-                "modrinth": "Item Scroller"
-            },
-            "id": {
-                "modrinth": "JygyCSA4"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "itemscroller-fabric-1.21.10-0.29.2.jar",
-                    "mc_versions": [
-                        "1.21.9",
-                        "1.21.10"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/JygyCSA4/versions/DlBrZwem/itemscroller-fabric-1.21.10-0.29.2.jar",
-                    "id": "DlBrZwem",
-                    "parent_id": "JygyCSA4",
-                    "hashes": {
-                        "sha512": "33b16e8f53289384bab059d6c6abb019e4d2ae7d6db70c04e03895f362ef3889602a1f58c37622619267563dda656d5b6c1e669d9ffcbe8da0de46971b214b6f",
-                        "sha1": "778fbd1208948c141f65a3428d605f3ce6b40d3b"
-                    },
-                    "required_dependencies": [
-                        "GcWjdA9I"
-                    ],
-                    "size": 190636,
-                    "date_published": "2025-10-20T19:08:18.970152Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "tk2Sh9nGHs1OwvLn",
             "type": "MOD",
             "side": "BOTH",
