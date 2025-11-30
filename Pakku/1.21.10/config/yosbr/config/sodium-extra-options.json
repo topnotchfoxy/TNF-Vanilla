@@ -2,6 +2,9 @@
   "animation_settings": {
     "portal": false
   },
+  "render_settings": {
+    "global_fog": false
+  },
   "extra_settings": {
     "text_contrast": "SHADOW",
     "show_fps": true,
