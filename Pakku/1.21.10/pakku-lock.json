@@ -653,6 +653,45 @@
             ]
         },
         {
+            "pakku_id": "tk2Sh9nGHs1OwvLn",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "jade"
+            },
+            "name": {
+                "modrinth": "Jade 🔍"
+            },
+            "id": {
+                "modrinth": "nvQzSEkH"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Jade-1.21.9-Fabric-20.1.0.jar",
+                    "mc_versions": [
+                        "1.21.9",
+                        "1.21.10"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/nCbsPtPw/Jade-1.21.9-Fabric-20.1.0.jar",
+                    "id": "nCbsPtPw",
+                    "parent_id": "nvQzSEkH",
+                    "hashes": {
+                        "sha512": "17a5bfa8c1884dcf8d5226158a079ebfd7dabd4365f4d8974a165e979c24eb7de5d1f4d8d6a3dd41b17cf7645aa69222dc7904dbaaf40eac8518b7c62a266646",
+                        "sha1": "d1ae69baa96742259036573fd0df35a58f7fd088"
+                    },
+                    "required_dependencies": [],
+                    "size": 928983,
+                    "date_published": "2025-10-21T09:37:39.401297Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "EtkdHf8pu9ic4RfR",
             "type": "MOD",
             "side": "CLIENT",
