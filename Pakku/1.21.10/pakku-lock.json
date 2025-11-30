@@ -47,6 +47,49 @@
             ]
         },
         {
+            "pakku_id": "u9pREgDJAp7EJCQd",
+            "pakku_links": [
+                "Vl962DNaqUmIWOHV"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "better-block-entities"
+            },
+            "name": {
+                "modrinth": "Better Block Entities"
+            },
+            "id": {
+                "modrinth": "ONZm0H7Y"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "bbe-1.2.0+1.21.10.jar",
+                    "mc_versions": [
+                        "1.21.9",
+                        "1.21.10"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ONZm0H7Y/versions/r4ORW6Zs/bbe-1.2.0+1.21.10.jar",
+                    "id": "r4ORW6Zs",
+                    "parent_id": "ONZm0H7Y",
+                    "hashes": {
+                        "sha512": "bb1539d9c3202836f70dd02f3e0b011b553f93d178e2107e847be38d14be816201483d4dd98e711c74d02a989b16c89466e401898aed70390bc1bc4e1b13117c",
+                        "sha1": "bd12066547d1f791e905fb29356f0601b4c2f57a"
+                    },
+                    "required_dependencies": [
+                        "AANobbMI"
+                    ],
+                    "size": 119994,
+                    "date_published": "2025-11-16T22:57:52.959314Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "aGO4T2jkFFg0EsV9",
             "pakku_links": [
                 "zImUjhxowmOArH8U",
