@@ -2,8 +2,12 @@ version:4671
 
 enableVsync:false
 maxFps:260
+maxAnisotropyBit:0
+textureFiltering:0
+mipmapLevels:0
+vignette:false
 
-resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix"]
+resourcePacks:["vanilla","continuity:default","continuity:glass_pane_culling_fix"]
 
 onboardAccessibility:false
 soundCategory_master:0.5
@@ -16,8 +20,6 @@ joinedFirstServer:true
 
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
-key_key.entityculling.toggle:key.keyboard.unknown
-key_key.optigui.inspect:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
