@@ -46,6 +46,48 @@
             ]
         },
         {
+            "pakku_id": "1V49G0en3kmif6xF",
+            "pakku_links": [
+                "yLSfRN69vcd1WJm9"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "architectury-api"
+            },
+            "name": {
+                "modrinth": "Architectury API"
+            },
+            "id": {
+                "modrinth": "lhGA9TYQ"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "architectury-19.0.1-fabric.jar",
+                    "mc_versions": [
+                        "1.21.11"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/uNdfrcQ8/architectury-19.0.1-fabric.jar",
+                    "id": "uNdfrcQ8",
+                    "parent_id": "lhGA9TYQ",
+                    "hashes": {
+                        "sha512": "7ca532844a0ed3d35e8515e13d1e84f8eadfceaae93281b79ad6b4dac253f4634e3dfcc7592f9543871dec117e1a3092c196ba5eae33735162de223be19dc4ad",
+                        "sha1": "2d40563f7e36f7a03f094031aeaacb175117928e"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 568474,
+                    "date_published": "2025-12-16T04:24:40.738870Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "u9pREgDJAp7EJCQd",
             "pakku_links": [
                 "Vl962DNaqUmIWOHV"
@@ -1224,6 +1266,43 @@
                     ],
                     "size": 388018,
                     "date_published": "2025-12-27T17:03:32.689825Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "M7VrmGRbKEXQN9mr",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "tcdcommons"
+            },
+            "name": {
+                "modrinth": "TCDCommons API"
+            },
+            "id": {
+                "modrinth": "Eldc1g37"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "tcdcommons-5.0.0-beta.1+fabric-1.21.11.jar",
+                    "mc_versions": [
+                        "1.21.11"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/Eldc1g37/versions/WxppHfdM/tcdcommons-5.0.0-beta.1+fabric-1.21.11.jar",
+                    "id": "WxppHfdM",
+                    "parent_id": "Eldc1g37",
+                    "hashes": {
+                        "sha512": "e2758512d950ab6b26630352408daa66e6a3518168d3edf32323dfffa457c7cf84d7ab44aabf29f1d4261d90c31bf62173797fe329dc37ac6ccd2429d512a9cf",
+                        "sha1": "017f3a3c98386eebcad3548a66e8c6b8bcf98409"
+                    },
+                    "required_dependencies": [],
+                    "size": 391499,
+                    "date_published": "2025-12-28T16:57:05.843194Z"
                 }
             ]
         },
