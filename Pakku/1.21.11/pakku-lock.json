@@ -88,6 +88,43 @@
             ]
         },
         {
+            "pakku_id": "aBxjo9GR8iKsBjcc",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "better-stats"
+            },
+            "name": {
+                "modrinth": "Better Statistics Screen"
+            },
+            "id": {
+                "modrinth": "n6PXGAoM"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "betterstats-5.0.0-beta.1+fabric-1.21.11.jar",
+                    "mc_versions": [
+                        "1.21.11"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/n6PXGAoM/versions/KhB1nFfY/betterstats-5.0.0-beta.1+fabric-1.21.11.jar",
+                    "id": "KhB1nFfY",
+                    "parent_id": "n6PXGAoM",
+                    "hashes": {
+                        "sha512": "6a662deffccf41949758637648f08d537cde07387964b48839b905a084a4dd9903fa1114e01f84f283e9198a4c8878fc97c26fc3ea88de7786368748ef34c7e7",
+                        "sha1": "e1d1ef9f2a3507d5f30d4ed6717ab6ccca56ede7"
+                    },
+                    "required_dependencies": [],
+                    "size": 222338,
+                    "date_published": "2025-12-28T16:59:18.136060Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "aGO4T2jkFFg0EsV9",
             "pakku_links": [
                 "zImUjhxowmOArH8U",
