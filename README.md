@@ -24,7 +24,11 @@
         <tr>
             <th rowspan="20"><p>Minecraft</p>Versions</th>
             <th></th>
+            <th>1.21.11</th>
+        </tr>
+        <tr>
             <th>1.21.10</th>
+            <th></th>
         </tr>
         <tr>
             <th>1.21.8</th>
@@ -116,7 +120,11 @@
         <tr>
             <th rowspan="20"><p>Minecraft</p>Versions</th>
             <th></th>
+            <th>1.21.11</th>
+        </tr>
+        <tr>
             <th>1.21.10</th>
+            <th></th>
         </tr>
         <tr>
             <th>1.21.8</th>
