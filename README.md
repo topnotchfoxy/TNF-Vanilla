@@ -13,7 +13,7 @@
 <ul>
     <h4>Java >= 23</h4>
     <pre><code>-Xms4G -Xmx4G -XX:+UseZGC</code></pre>
-    <h4>Java >= 15 & <= 21</h4>
+    <h4>Java 21</h4>
     <pre><code>-Xms4G -Xmx4G -XX:+UseZGC -XX:+ZGenerational</code></pre>
 </ul>
 
