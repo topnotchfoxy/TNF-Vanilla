@@ -103,7 +103,7 @@
 
 <h3>About Modpack</h3>
 <ul>
-    <li>Based on <a href="https://modrinth.com/mod/sodium">Sodium</a> and other optimization mods to optimize performance</li>
+    <li>High performance Sodium + </li>
     <li>Include the <a href="https://modrinth.com/mod/iris">Iris shader mod</a>, so you can install <a href="https://modrinth.com/shaders?g=categories:iris">shaders that Iris support</a></li>
     <li>Include the <a href="https://modrinth.com/mod/e4mc">e4mc</a> mod so your friends can easily connect to your single player world</li>
     <li><a href="https://modrinth.com/modpack/tnvbp/gallery">In-game benchmark screenshots</a></li>
