@@ -6,20 +6,20 @@
 <ul>
     <li><strong>High Performance</strong> - Increase single and multiplayer performance by using <a href="https://modrinth.com/mod/sodium">Sodium</a> mods and other optimization mods</li>
     <li><strong>QOL</strong> - Include mods like <a href="https://modrinth.com/mod/journeymap">JourneyMap</a>, <a href="https://modrinth.com/mod/jade">Jade 🔍</a>, <a href="https://modrinth.com/mod/better-stats">Better Statistics Screen</a>, <a href="https://modrinth.com/user/masa/mods">several Masa's popular mods</a> to make things a lot easier</li>
-    <li><strong>In-game Resource packs, Shaders and also Data Packs Download</strong> - Achieve these by using the <a href="https://modrinth.com/mod/resourcify">Resourcify</a> mod</li>
+    <li><strong>In-game Resource/Shader packs Download + Install</strong> - Achieve these by using the <a href="https://modrinth.com/mod/resourcify">Resourcify</a> mod, it also can download and install data packs</li>
 </ul>
 
 <h3>Recommended JVM Arguments</h3>
 <ul>
     <h4>Java >= 23</h4>
     <pre><code>-Xms4G -Xmx4G -XX:+UseZGC</code></pre>
-    <h4>Java >= 15 & <= 21</h4>
+    <h4>Java 21</h4>
     <pre><code>-Xms4G -Xmx4G -XX:+UseZGC -XX:+ZGenerational</code></pre>
 </ul>
 
 <h3>Issue Report or Suggestion</h3>
 <ul>
-    <li><a href="https://github.com/TN-TechNoob/TNVBP/issues">Github Issue Tracker</a></li>
+    <li><a href="https://github.com/TN-TechNoob/TN-Vanilla/issues">Github Issue Tracker</a></li>
     <li><a href="https://discord.gg/Yj9WH3P8RN">Discord Server</a></li>
 </ul>
 
