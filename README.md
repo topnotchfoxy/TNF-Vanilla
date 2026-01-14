@@ -4,9 +4,9 @@
 
 <h3>About Modpack</h3>
 <ul>
-    <li><strong>High Performance</strong> - Increase single and multiplayer performance by using <a href="https://modrinth.com/mod/sodium">Sodium</a> mods and other optimization mods</li>
-    <li><strong>QOL</strong> - Include mods like <a href="https://modrinth.com/mod/journeymap">JourneyMap</a>, <a href="https://modrinth.com/mod/jade">Jade 🔍</a>, <a href="https://modrinth.com/mod/better-stats">Better Statistics Screen</a>, <a href="https://modrinth.com/user/masa/mods">several Masa's popular mods</a> to make things a lot easier</li>
-    <li><strong>In-game Resource/Shader packs Download + Install</strong> - Achieve these by using the <a href="https://modrinth.com/mod/resourcify">Resourcify</a> mod, it can also download and install data packs</li>
+    <li><strong>High Performance</strong><br>Increase single and multiplayer performance by using <a href="https://modrinth.com/mod/sodium">Sodium</a> mods and other optimization mods</li>
+    <li><strong>QOL</strong><br>Include mods like <a href="https://modrinth.com/mod/journeymap">JourneyMap</a>, <a href="https://modrinth.com/mod/jade">Jade 🔍</a>, <a href="https://modrinth.com/mod/better-stats">Better Statistics Screen</a>, <a href="https://modrinth.com/user/masa/mods">several Masa's popular mods</a> to make things a lot easier</li>
+    <li><strong>In-game Resource/Shader packs Download + Install</strong><br>Achieve these by using the <a href="https://modrinth.com/mod/resourcify">Resourcify</a> mod, it can also download and install data packs</li>
 </ul>
 
 <h3>Recommended JVM Arguments</h3>
