@@ -1,4 +1,4 @@
-![TN-Vanilla_Banner](https://cdn.modrinth.com/data/Ohwb2cTF/images/3bca616164686d38ef2d694453ef7289abf2c68c.png)
+![TNF-Vanilla_Banner](https://cdn.modrinth.com/data/Ohwb2cTF/images/4b8d6636f8419555186569fb7a98a6657489657d.png)
 ![Modrinth Downloads](https://img.shields.io/modrinth/dt/Ohwb2cTF?label=Downloads&logo=modrinth&style=flat-square)
 [![Discord](https://img.shields.io/discord/607123183249653770?label=Discord&logo=discord&style=flat-square)](https://discord.gg/Yj9WH3P8RN)
 
