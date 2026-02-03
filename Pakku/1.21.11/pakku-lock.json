@@ -527,6 +527,43 @@
             ]
         },
         {
+            "pakku_id": "jYdrfG2N6FSzl6LF",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "fast-ip-ping"
+            },
+            "name": {
+                "modrinth": "Fast IP Ping"
+            },
+            "id": {
+                "modrinth": "9mtu0sUO"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "fast-ip-ping-v1.0.8-mc1.21.11-fabric.jar",
+                    "mc_versions": [
+                        "1.21.11"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/9mtu0sUO/versions/qtIKi2T9/fast-ip-ping-v1.0.8-mc1.21.11-fabric.jar",
+                    "id": "qtIKi2T9",
+                    "parent_id": "9mtu0sUO",
+                    "hashes": {
+                        "sha512": "e169c6252d655b0ecf76717faa206270b99f23b29979ca70d76b1830fef5a06fe9579d23fdaa85fb789bc6e54f25332c039b68d2f55275da627dee474a9fb9e8",
+                        "sha1": "451daa1da7470dea8c1de97708e009f840f3130d"
+                    },
+                    "required_dependencies": [],
+                    "size": 10375,
+                    "date_published": "2025-12-10T19:52:25.364019Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "lSi2rnEI8H7kA9OU",
             "type": "MOD",
             "side": "CLIENT",
