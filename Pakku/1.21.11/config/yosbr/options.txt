@@ -1,10 +1,22 @@
 version:4671
 
+graphicsPreset:"custom"
+
 enableVsync:false
 maxFps:260
+
+renderDistance:8
+simulationDistance:6
+
 maxAnisotropyBit:0
 textureFiltering:0
 mipmapLevels:0
+
+ao:true
+particles:0
+cutoutLeaves:true
+biomeBlendRadius:1
+renderClouds:"true"
 vignette:false
 
 resourcePacks:["vanilla","continuity:default","continuity:glass_pane_culling_fix"]

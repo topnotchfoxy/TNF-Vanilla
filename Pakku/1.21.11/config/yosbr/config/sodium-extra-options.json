@@ -1,14 +1,15 @@
 {
-  "animation_settings": {
-    "portal": false
-  },
-  "render_settings": {
-    "global_fog": false
-  },
-  "extra_settings": {
-    "text_contrast": "SHADOW",
-    "show_fps": true,
-    "show_f_p_s_extended": false,
-    "tutorial_toast": false
-  }
+    "animation_settings": {
+        "portal": false
+    },
+    "render_settings": {
+        "global_fog": false
+    },
+    "extra_settings": {
+        "text_contrast": "SHADOW",
+        "show_fps": true,
+        "show_f_p_s_extended": false,
+        "tutorial_toast": false,
+        "steady_debug_hud_refresh_interval": 10
+    }
 }
