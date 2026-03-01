@@ -1665,43 +1665,6 @@
             ]
         },
         {
-            "pakku_id": "9DhIZTvJxeModXdz",
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "modrinth": "forcecloseworldloadingscreen"
-            },
-            "name": {
-                "modrinth": "kennytvs-epic-force-close-loading-screen-mod-for-fabric"
-            },
-            "id": {
-                "modrinth": "blWBX5n1"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "forcecloseloadingscreen-2.3.4.jar",
-                    "mc_versions": [
-                        "1.21.11"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/blWBX5n1/versions/6ZFi5jQ5/forcecloseloadingscreen-2.3.4.jar",
-                    "id": "6ZFi5jQ5",
-                    "parent_id": "blWBX5n1",
-                    "hashes": {
-                        "sha512": "bea54348d6141bb382db5525177f1b19b6a9b8bbe6f8cf2ee000752fa1558d740fe9d79290edf8c6ab49edd53b18337f765af0cd5b2a3635295b3a8e9c85755a",
-                        "sha1": "37d86edf9e5fd74168d98c9578926142280e3559"
-                    },
-                    "required_dependencies": [],
-                    "size": 116793,
-                    "date_published": "2025-12-27T12:32:27.193547Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "smUi8UCcNSP7J7Km",
             "pakku_links": [
                 "yLSfRN69vcd1WJm9",
