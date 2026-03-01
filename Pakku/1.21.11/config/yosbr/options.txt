@@ -12,6 +12,7 @@ maxAnisotropyBit:0
 textureFiltering:0
 mipmapLevels:0
 
+fov:0.5
 ao:true
 particles:0
 cutoutLeaves:true
