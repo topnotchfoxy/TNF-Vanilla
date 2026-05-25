@@ -54,7 +54,7 @@ jobs:
           pushd Pakku/${{ matrix.mc_version}}
           PACK_VERSION=$(jq -r '.version' pakku.json)
           echo "PACK_VERSION=$PACK_VERSION" >> $GITHUB_ENV
-          wget https://github.com/juraj-hrivnak/Pakku/releases/download/v1.3.3/pakku.jar
+          wget https://github.com/juraj-hrivnak/Pakku/releases/download/v1.4.0/pakku.jar
           java -jar pakku.jar export
           popd
       - name: Publish to Modrinth
