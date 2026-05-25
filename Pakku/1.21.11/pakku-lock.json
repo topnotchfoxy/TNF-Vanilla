@@ -1108,50 +1108,6 @@
             ]
         },
         {
-            "pakku_id": "NV5sg9mwoX6uo7e7",
-            "pakku_links": [
-                "Vl962DNaqUmIWOHV",
-                "L3BozWhWbUrNmri1"
-            ],
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "modrinth": "reeses-sodium-options"
-            },
-            "name": {
-                "modrinth": "Reese's Sodium Options"
-            },
-            "id": {
-                "modrinth": "Bh37bMuy"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "reeses-sodium-options-fabric-2.0.3+mc1.21.11.jar",
-                    "mc_versions": [
-                        "1.21.11"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/yIgAFMna/reeses-sodium-options-fabric-2.0.3+mc1.21.11.jar",
-                    "id": "yIgAFMna",
-                    "parent_id": "Bh37bMuy",
-                    "hashes": {
-                        "sha512": "13b54698be3cbecdcf544ff92186423652c6b1e91544864c979f51297a3159137f794db4e3ee21e0bae3abcf651bb4ecc0e2a5b4aa1eab1f1a81d6529fe82e59",
-                        "sha1": "fb452b122fd72e8540d32fbe3df01cc34a45ce41"
-                    },
-                    "required_dependencies": [
-                        "AANobbMI"
-                    ],
-                    "size": 104577,
-                    "date_published": "2026-01-26T01:30:59.562453Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "YnYq9RpQvmDmb6o8",
             "pakku_links": [
                 "zImUjhxowmOArH8U",
