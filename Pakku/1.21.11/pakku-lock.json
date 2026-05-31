@@ -832,7 +832,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "journeymap-fabric-1.21.11-6.0.0-beta.79.jar",
+                    "file_name": "journeymap-fabric-1.21.11-6.0.0-beta.82.jar",
                     "mc_versions": [
                         "1.21.11"
                     ],
@@ -841,18 +841,18 @@
                         "quilt"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/42J4OASc/journeymap-fabric-1.21.11-6.0.0-beta.79.jar",
-                    "id": "42J4OASc",
+                    "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/qvNvPvWv/journeymap-fabric-1.21.11-6.0.0-beta.82.jar",
+                    "id": "qvNvPvWv",
                     "parent_id": "lfHFW1mp",
                     "hashes": {
-                        "sha512": "b8fb37aa95b622498b06d81ec5c5fb93cfae3bfc3879ed5ef18d6f0b9b8de9fffb028a91e2ef342c7ca98ef1522cb86bbe1203673f56fa4c58a6e623d885ab12",
-                        "sha1": "49e9a338207a07a90171682ee33a20e5900e6c98"
+                        "sha512": "79729970f08b7c1c9c26f0aeec103cdf7eb527375c52803c62b2891137ef8905cdc451542d1fffa7fa2c83a62fb5a5d8913371107fb7eb0a99c037ca6be8f535",
+                        "sha1": "6fa30602037a94efd7dc4ebc3d0630c90f9b65a9"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 4096138,
-                    "date_published": "2026-05-21T21:53:49.322003Z"
+                    "size": 4154651,
+                    "date_published": "2026-05-29T16:33:02.344419Z"
                 }
             ]
         },
