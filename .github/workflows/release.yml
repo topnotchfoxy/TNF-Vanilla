@@ -27,7 +27,7 @@ jobs:
       - name: Build Pack
         run: |
           pushd Pakku/
-          MC_VERSION=$(jq -r '.mc_versions' pakku-lock.json)
+          MC_VERSION=$(jq -r '.mc_versions[0]' pakku-lock.json)
           echo "MC_VERSION=$MC_VERSION" >> $GITHUB_ENV
           PACK_VERSION=$(jq -r '.version' pakku.json)
           echo "PACK_VERSION=$PACK_VERSION" >> $GITHUB_ENV
