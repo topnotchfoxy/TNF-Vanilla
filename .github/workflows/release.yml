@@ -46,7 +46,7 @@ jobs:
           loaders: fabric
           game-versions: ${{ env.MC_VERSION }}
       - name: Upload to Github Release
-        uses: Shopify/upload-to-release@v1
+        uses: Shopify/upload-to-release@v2.0.0
         with:
           name: ${{ env.PACK_NAME }}.mrpack
           path: ./Pakku/build/modrinth/*.mrpack
