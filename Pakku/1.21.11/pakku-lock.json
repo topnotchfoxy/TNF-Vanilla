@@ -88,48 +88,6 @@
             ]
         },
         {
-            "pakku_id": "1V49G0en3kmif6xF",
-            "pakku_links": [
-                "yLSfRN69vcd1WJm9"
-            ],
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "modrinth": "architectury-api"
-            },
-            "name": {
-                "modrinth": "Architectury API"
-            },
-            "id": {
-                "modrinth": "lhGA9TYQ"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "architectury-19.0.1-fabric.jar",
-                    "mc_versions": [
-                        "1.21.11"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/uNdfrcQ8/architectury-19.0.1-fabric.jar",
-                    "id": "uNdfrcQ8",
-                    "parent_id": "lhGA9TYQ",
-                    "hashes": {
-                        "sha512": "7ca532844a0ed3d35e8515e13d1e84f8eadfceaae93281b79ad6b4dac253f4634e3dfcc7592f9543871dec117e1a3092c196ba5eae33735162de223be19dc4ad",
-                        "sha1": "2d40563f7e36f7a03f094031aeaacb175117928e"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH"
-                    ],
-                    "size": 568474,
-                    "date_published": "2025-12-16T04:24:40.738870Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "u9pREgDJAp7EJCQd",
             "pakku_links": [
                 "Vl962DNaqUmIWOHV",
