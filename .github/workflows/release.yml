@@ -45,7 +45,7 @@ jobs:
           files: ./Pakku/build/modrinth/*.mrpack
           loaders: fabric
           game-versions: ${{ env.MC_VERSION }}
-          version: MC${{ matrix.mc_version}}-${{ env.PACK_VERSION }}
+          version: MC${{ env.MC_VERSION}}-${{ env.PACK_VERSION }}
       - name: Upload to Github Release
         uses: softprops/action-gh-release@v3
         with:
