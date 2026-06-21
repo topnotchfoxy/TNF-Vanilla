@@ -1,72 +1,52 @@
-name: Release
-
+name: Automatically publish to Modrinth
 on:
-  push:
-    tags:
-      - "**"
-
-jobs:
   release:
-    strategy:
-      matrix:
-        mc_version: ["1.21.11"]
+    types: [published]
+jobs:
+  publish-to-modrinth:
+    if: github.repository_owner == 'topnotchfoxy'
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     environment: github-actions
     permissions:
-      id-token: write
       attestations: write
+      artifact-metadata: write
       contents: write
+      id-token: write
     steps:
-      - name: Clone Repo
+      - name: Checkout Repository
         uses: actions/checkout@v6
         with:
-          fetch-depth: 0
-      - name: Check for changes
-        id: check-for-changes
-        run: |
-          PREVIOUS_TAG=$(git tag --sort version:refname | tail -n 2 | head -n 1)
-          LATEST_TAG=$(git tag --sort version:refname | tail -n 1)
-
-          COMMIT_LOG=$(git log --pretty='format:[%h](${{ github.server_url }}/${{ github.repository }}/commit/%H) - %s <br>' "${PREVIOUS_TAG}".."${LATEST_TAG}" -- Pakku/${{ matrix.mc_version }})
-
-          if [ -n "$COMMIT_LOG" ]; then
-              echo "Commit Log between $PREVIOUS_TAG and $LATEST_TAG:"
-              echo "prev=${{ github.server_url }}/${{ github.repository }}/commit/$PREVIOUS_TAG" >> $GITHUB_ENV
-              echo "latest=${{ github.server_url }}/${{ github.repository }}/commit/$LATEST_TAG" >> $GITHUB_ENV
-              echo "commit_log<<EOF" >> $GITHUB_ENV
-              echo $COMMIT_LOG>> $GITHUB_ENV
-              echo "EOF" >> $GITHUB_ENV
-              echo "changed=true" >> $GITHUB_ENV
-          else
-              echo "No commits found between $PREVIOUS_TAG and $LATEST_TAG."
-              echo "changed=false" >> $GITHUB_ENV
-          fi
+          persist-credentials: false
       - name: Setup Java JDK
-        if: env.changed == 'true'
         uses: actions/setup-java@v5
         with:
           distribution: "temurin"
           java-version: "21"
           java-package: "jre"
       - name: Build Pack
-        if: env.changed == 'true'
         run: |
-          pushd Pakku/${{ matrix.mc_version}}
+          pushd Pakku/
+          MC_VERSION=$(jq -r '.mc_versions[0]' pakku-lock.json)
+          echo "MC_VERSION=$MC_VERSION" >> $GITHUB_ENV
           PACK_VERSION=$(jq -r '.version' pakku.json)
           echo "PACK_VERSION=$PACK_VERSION" >> $GITHUB_ENV
-          wget https://github.com/juraj-hrivnak/Pakku/releases/download/v1.4.0/pakku.jar
+          PACK_NAME=$(jq -r '.name' pakku.json)
+          echo "PACK_NAME=$PACK_NAME" >> $GITHUB_ENV
+          wget https://github.com/juraj-hrivnak/Pakku/releases/latest/download/pakku.jar
           java -jar pakku.jar export
           popd
       - name: Publish to Modrinth
-        if: env.changed == 'true'
-        uses: Kir-Antipov/mc-publish@v3.3
+        uses: Kira-NT/mc-publish@v3.3
         with:
-          name: MC${{ matrix.mc_version}}-${{ env.PACK_VERSION }}
+          name: MC${{ env.MC_VERSION }}-${{ env.PACK_VERSION }}
           modrinth-id: Ohwb2cTF
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-          files: ./Pakku/${{ matrix.mc_version }}/build/modrinth/*.mrpack
-          changelog: |
-            ${{ env.commit_log }}
+          files: ./Pakku/build/modrinth/*.mrpack
           loaders: fabric
-          game-versions: ${{ matrix.mc_version }}
-          version: MC${{ matrix.mc_version}}-${{ env.PACK_VERSION }}
+          game-versions: ${{ env.MC_VERSION }}
+          version: MC${{ env.MC_VERSION}}-${{ env.PACK_VERSION }}
+      - name: Upload to Github Release
+        uses: softprops/action-gh-release@v3
+        with:
+          files: ./Pakku/build/modrinth/*.mrpack

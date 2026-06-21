@@ -1,0 +1,12 @@
+{
+    "animation_settings": {
+        "portal": false
+    },
+    "render_settings": {
+        "global_fog": false
+    },
+    "extra_settings": {
+        "tutorial_toast": false,
+        "steady_debug_hud_refresh_interval": 10
+    }
+}
