@@ -2,12 +2,27 @@
 ![Modrinth Downloads](https://img.shields.io/modrinth/dt/Ohwb2cTF?label=Downloads&logo=modrinth&style=flat-square)
 [![Discord](https://img.shields.io/discord/607123183249653770?label=Discord&logo=discord&style=flat-square)](https://discord.gg/Yj9WH3P8RN)
 
-<h3>About Modpack</h3>
-<ul>
-    <li><strong>High Performance</strong><br>Increase single and multiplayer performance by using <a href="https://modrinth.com/mod/sodium">Sodium</a> mods and other optimization mods</li>
-    <li><strong>QOL</strong><br>Include mods like <a href="https://modrinth.com/mod/journeymap">JourneyMap</a>, <a href="https://modrinth.com/mod/jade">Jade 🔍</a>, <a href="https://modrinth.com/mod/better-stats">Better Statistics Screen</a>, <a href="https://modrinth.com/user/masa/mods">several Masa's popular mods</a> to make things a lot easier</li>
-    <li><strong>In-game Resource/Shader packs Download + Install</strong><br>Achieve these by using the <a href="https://modrinth.com/mod/resourcify">Resourcify</a> mod, it can also download and install data packs</li>
-</ul>
+<h3>Modpack Feature</h3>
+<details>
+    <summary><a href="https://modrinth.com/project/zV5r3pPn">3D Skin Layers</a></summary>
+    <img src="https://cdn.modrinth.com/data/Ohwb2cTF/images/2d97ac1ee3b1910ef7d646c7a4ba8a57977adc30.webp">
+</details>
+<details>
+    <summary><a href="https://modrinth.com/project/n6PXGAoM">Better Statistics Screen</a></summary>
+    <img src="https://cdn.modrinth.com/data/Ohwb2cTF/images/30418335a6a011efd5e5c32400d01a5124a53546.webp">
+</details>
+<details>
+    <summary>Connected Textures (<a href="https://modrinth.com/project/1IjD5062">Continuity</a>)</summary>
+    <img src="https://cdn.modrinth.com/data/Ohwb2cTF/images/c4f71ed8f20c5d8617ccfce87c18fa5678ea0866.webp">
+</details>
+<details>
+    <summary>MiniMap (<a href="https://modrinth.com/project/lfHFW1mp">JourneyMap</a>)</summary>
+    <img src="https://cdn.modrinth.com/data/Ohwb2cTF/images/8b5c754e62c01c3973b402860d8dde9be95199ba.webp">
+</details>
+<details>
+    <summary>What Am I Looking At (<a href="https://modrinth.com/project/nvQzSEkH">Jade 🔍</a>)</summary>
+    <img src="https://cdn.modrinth.com/data/Ohwb2cTF/images/23491aa7b1130292792ba81f733356bf2ac95899.webp">
+</details>
 
 <h3>Recommended JVM Arguments</h3>
 <ul>
