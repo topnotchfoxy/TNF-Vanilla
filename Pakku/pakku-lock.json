@@ -260,24 +260,24 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "c2me-fabric-mc26.2-0.4.1-beta.1.0.jar",
+                    "file_name": "c2me-fabric-mc26.2-0.4.2-alpha.0.1.jar",
                     "mc_versions": [
                         "26.2"
                     ],
                     "loaders": [
                         "fabric"
                     ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/hfq4dPFH/c2me-fabric-mc26.2-0.4.1-beta.1.0.jar",
-                    "id": "hfq4dPFH",
+                    "release_type": "alpha",
+                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/mvEDAhN1/c2me-fabric-mc26.2-0.4.2-alpha.0.1.jar",
+                    "id": "mvEDAhN1",
                     "parent_id": "VSNURh3q",
                     "hashes": {
-                        "sha512": "21076491de36c5d680cafa494116b98a134a3d7e3cbcb77a59942bab0ceacf6c9386a80b1e4d870e501aafab27b89c0b5d7a09f1392a4d4ab43a87f9d3524841",
-                        "sha1": "284370db4ccf66653de0d250f4b990f4ed41fe1f"
+                        "sha512": "0379b8ef14111545a77da74a05b685ed9d2ead9266d137d7883201e754176792626e729c4c35836143df3008ba7d5eb3b9586b01ca7595ef9fe5737d7a406c44",
+                        "sha1": "9dd510fca08d3988e55a41dff10c9a66edc6842f"
                     },
                     "required_dependencies": [],
-                    "size": 3775368,
-                    "date_published": "2026-06-21T16:02:35.268704Z"
+                    "size": 3775611,
+                    "date_published": "2026-06-23T08:24:09.113570Z"
                 }
             ]
         },
@@ -382,7 +382,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "fabric-api-0.152.2+26.2.jar",
+                    "file_name": "fabric-api-0.153.0+26.2.jar",
                     "mc_versions": [
                         "26.2"
                     ],
@@ -390,16 +390,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/vodPC30d/fabric-api-0.152.2+26.2.jar",
-                    "id": "vodPC30d",
+                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/M8Kbv865/fabric-api-0.153.0+26.2.jar",
+                    "id": "M8Kbv865",
                     "parent_id": "P7dR8mSH",
                     "hashes": {
-                        "sha512": "9a2619168ee55e5ba0473efcd9c765b668ffa0e3a0cd858e877fff42fe68f9644c9ec3222c73e5734c59fc2cbb0ea01f3ba976ca7a2f009872c9c0885da4a713",
-                        "sha1": "484396ad53550c267dfe577332e6a56a9cbe9612"
+                        "sha512": "27f3cb9dd81ab5371a38f9bf01c4504f197def7fadc6443c0ed4bd6c7a129bbac433179e5033e47aad00aafc9dc99f52edf3ab6232e1fb8aafd11a555893385c",
+                        "sha1": "1d22675ae6ebc304f7f808ca842b11db85ca9a90"
                     },
                     "required_dependencies": [],
-                    "size": 2501396,
-                    "date_published": "2026-06-18T14:57:44.905284Z"
+                    "size": 2513721,
+                    "date_published": "2026-06-22T17:35:52.796918Z"
                 }
             ]
         },
@@ -868,7 +868,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "modmenu-20.0.0-beta.3.jar",
+                    "file_name": "modmenu-20.0.0-beta.4.jar",
                     "mc_versions": [
                         "26.2"
                     ],
@@ -877,19 +877,19 @@
                         "quilt"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/dTGuPZ91/modmenu-20.0.0-beta.3.jar",
-                    "id": "dTGuPZ91",
+                    "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/3gAjUrx6/modmenu-20.0.0-beta.4.jar",
+                    "id": "3gAjUrx6",
                     "parent_id": "mOgUt4GM",
                     "hashes": {
-                        "sha512": "a40a9456133ec9bf78235629a05980b36206306d23b288730d9f5af7df64bfb4b117eac2549a6390fe2fb652a8704a98d98b084475d729e2b3195443fa44b52f",
-                        "sha1": "606811c5f2cb4e66f4ca1b13b603febf97710014"
+                        "sha512": "b25262ae28d82b60b000d00179a3f3683d3dad6461988a5750fae9ce601769f20b824b8439731719a8ae3623462d9f26930f8d7095b23a282ab2865a57778706",
+                        "sha1": "eccb69023a351a8a1531ea70d04732120c1167aa"
                     },
                     "required_dependencies": [
                         "eXts2L7r",
                         "P7dR8mSH"
                     ],
-                    "size": 635877,
-                    "date_published": "2026-06-18T23:33:16.793919Z"
+                    "size": 613011,
+                    "date_published": "2026-06-22T19:40:19.131757Z"
                 }
             ]
         },
@@ -1193,7 +1193,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "yet_another_config_lib_v3-3.9.4+26.2-fabric.jar",
+                    "file_name": "yet_another_config_lib_v3-3.9.5+26.2-fabric.jar",
                     "mc_versions": [
                         "26.2"
                     ],
@@ -1201,18 +1201,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/Sq2GH95j/yet_another_config_lib_v3-3.9.4+26.2-fabric.jar",
-                    "id": "Sq2GH95j",
+                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/LlSShNCR/yet_another_config_lib_v3-3.9.5+26.2-fabric.jar",
+                    "id": "LlSShNCR",
                     "parent_id": "1eAoo2KR",
                     "hashes": {
-                        "sha512": "a23640a6c17052a763fe238a426c17dc6ce316499963f4f85c7dae2e6b1e2d34f3225959d9776caa9537e5d6ea5a9c85d37568c6e26fdad081d4bdaa0167ef07",
-                        "sha1": "330a957129141dfd2213e29bfdb9585715d4af6a"
+                        "sha512": "bf709e5d1db2f104abb1e45d27dec39f10e0e2d546ec1e5df3a49b464c6f2b2daf39633e26e94e7869ae2a555258e5c4ee2d796c7d6d0e26300052a8de15052a",
+                        "sha1": "e5d90b4f2cc508056097249d71fc9482ae73c111"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 1121568,
-                    "date_published": "2026-06-04T15:42:55.703308Z"
+                    "size": 1121528,
+                    "date_published": "2026-06-23T16:04:11.850382Z"
                 }
             ]
         },
@@ -1229,76 +1229,7 @@
             "id": {
                 "modrinth": "WwbubTsV"
             },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "yosbr-0.1.2.jar",
-                    "mc_versions": [
-                        "1.14",
-                        "1.14.1",
-                        "1.14.2",
-                        "1.14.3",
-                        "1.14.4",
-                        "1.15",
-                        "1.15.1",
-                        "1.15.2",
-                        "1.16",
-                        "1.16.1",
-                        "1.16.2",
-                        "1.16.3",
-                        "1.16.4",
-                        "1.16.5",
-                        "1.17",
-                        "1.17.1",
-                        "1.18",
-                        "1.18.1",
-                        "1.18.2",
-                        "1.19",
-                        "1.19.1",
-                        "1.19.2",
-                        "1.19.3",
-                        "1.19.4",
-                        "1.20",
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4",
-                        "1.20.5",
-                        "1.20.6",
-                        "1.21",
-                        "1.21.1",
-                        "1.21.2",
-                        "1.21.3",
-                        "1.21.4",
-                        "1.21.5",
-                        "1.21.6",
-                        "1.21.7",
-                        "1.21.8",
-                        "1.21.9",
-                        "1.21.10",
-                        "1.21.11",
-                        "26.1",
-                        "26.1.1",
-                        "26.1.2",
-                        "26.2-rc-2"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/WwbubTsV/versions/KMOzdYko/yosbr-0.1.2.jar",
-                    "id": "KMOzdYko",
-                    "parent_id": "WwbubTsV",
-                    "hashes": {
-                        "sha512": "254f2225f6446523aa8c8274e83b31e27f3b2afc8fe4f490fb1b169dd518e10c7993acda5db0ab597474ddf9d69506b5e794242fada1e2f89ed7bf9d412a8f78",
-                        "sha1": "f0340e9c0bc95d67f3f3e9c1cd79b61054af11f9"
-                    },
-                    "required_dependencies": [],
-                    "size": 17373,
-                    "date_published": "2023-06-12T08:06:07.649412Z"
-                }
-            ]
+            "files": []
         },
         {
             "pakku_id": "pBWYM7X6dl6k2Frt",
