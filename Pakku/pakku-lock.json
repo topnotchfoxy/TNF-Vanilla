@@ -171,6 +171,50 @@
             ]
         },
         {
+            "pakku_id": "cwTJgr8JnVZRenMK",
+            "pakku_links": [
+                "tgsijwYBDoURkAoV",
+                "yLSfRN69vcd1WJm9"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "bettertab"
+            },
+            "name": {
+                "modrinth": "Better Tab"
+            },
+            "id": {
+                "modrinth": "OSMu7zRz"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "bettertab-2.2.1+26.2.jar",
+                    "mc_versions": [
+                        "26.2"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/OSMu7zRz/versions/4C7vJeTJ/bettertab-2.2.1+26.2.jar",
+                    "id": "4C7vJeTJ",
+                    "parent_id": "OSMu7zRz",
+                    "hashes": {
+                        "sha512": "010334d01643485ce701de7b576e8d0d2fc545a61c79011f86c25670dac1dfd03b37f67dbcf9b049e5ee6c694d88be2c835756cfbd64c699347156c5ddc757c9",
+                        "sha1": "9e9a2dbea9c1518650392e07c88ea76b4ad88895"
+                    },
+                    "required_dependencies": [
+                        "1eAoo2KR",
+                        "P7dR8mSH"
+                    ],
+                    "size": 49316,
+                    "date_published": "2026-06-23T10:27:53.546930Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "1vgqinkr20wQXnFL",
             "type": "MOD",
             "side": "CLIENT",
@@ -607,6 +651,52 @@
             ]
         },
         {
+            "pakku_id": "oEOWcFKLYfArFr78",
+            "pakku_links": [
+                "yLSfRN69vcd1WJm9",
+                "6BZ6vzCwvrAPrj5j",
+                "MFoCFKLdjdqCUSBD"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "inventory-profiles-next"
+            },
+            "name": {
+                "modrinth": "Inventory Profiles Next"
+            },
+            "id": {
+                "modrinth": "O7RBXm3n"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "InventoryProfilesNext-fabric-26.2-2.3.4.jar",
+                    "mc_versions": [
+                        "26.2"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/u088ZhjZ/InventoryProfilesNext-fabric-26.2-2.3.4.jar",
+                    "id": "u088ZhjZ",
+                    "parent_id": "O7RBXm3n",
+                    "hashes": {
+                        "sha512": "17eb7ba86f6d1d5738319a9b5247de8ef31f2fd1af977b2b519d2a5345ec41c72e03ab6b4f493b7fa46d45426dd10585700e959313e702fd2b11d139e3a7e865",
+                        "sha1": "c89189d8e4d140cc66e7d9c9da68007e5928b03e"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "onSQdWhM",
+                        "Ha28R6CL"
+                    ],
+                    "size": 1461505,
+                    "date_published": "2026-06-23T18:08:00.023564Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "FbUh5mbzPRat6hCK",
             "pakku_links": [
                 "Vl962DNaqUmIWOHV",
@@ -976,6 +1066,51 @@
             ]
         },
         {
+            "pakku_id": "fjV2NGyT8KReAMcu",
+            "pakku_links": [
+                "yLSfRN69vcd1WJm9"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "simple-shulker-preview"
+            },
+            "name": {
+                "modrinth": "Simple Shulker Preview"
+            },
+            "id": {
+                "modrinth": "MLwpdyw5"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "simpleshulkerpreview-2.5.0-mc26.1.jar",
+                    "mc_versions": [
+                        "26.1",
+                        "26.1.1",
+                        "26.1.2",
+                        "26.2"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/MLwpdyw5/versions/i6tHSfQC/simpleshulkerpreview-2.5.0-mc26.1.jar",
+                    "id": "i6tHSfQC",
+                    "parent_id": "MLwpdyw5",
+                    "hashes": {
+                        "sha512": "d4810cb011bd2f01fd6dbf15ea870bd6bd371ce4f9d6274f4ba07c32657f8181c8dc8d454227fc2f56c44b9f9a60504d691d2af39a7595fe35fcebf6f7751e84",
+                        "sha1": "f42b2427f040d8f29acced899c85a0576b8d5e07"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 1106756,
+                    "date_published": "2026-04-30T06:12:43.513448Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "L3BozWhWbUrNmri1",
             "type": "MOD",
             "side": "CLIENT",
@@ -1265,6 +1400,50 @@
                     "required_dependencies": [],
                     "size": 120931,
                     "date_published": "2026-06-20T11:30:21.307176Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "6BZ6vzCwvrAPrj5j",
+            "pakku_links": [
+                "MFoCFKLdjdqCUSBD",
+                "yLSfRN69vcd1WJm9"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "libipn"
+            },
+            "name": {
+                "modrinth": "libIPN"
+            },
+            "id": {
+                "modrinth": "onSQdWhM"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "libIPN-fabric-26.2-6.8.1.jar",
+                    "mc_versions": [
+                        "26.2"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/ifoEz0bD/libIPN-fabric-26.2-6.8.1.jar",
+                    "id": "ifoEz0bD",
+                    "parent_id": "onSQdWhM",
+                    "hashes": {
+                        "sha512": "ea770bcdf5f2c2464af4f421755d3734d545cf390081336ec72b552c9ea40772b7f6706f7c84710a049748a0e668d45c6b1fb03afdb4151c9635408e85fffc4d",
+                        "sha1": "f812b77f7ba7a7ccba83776ba9923ac4cb70bda3"
+                    },
+                    "required_dependencies": [
+                        "Ha28R6CL",
+                        "P7dR8mSH"
+                    ],
+                    "size": 630031,
+                    "date_published": "2026-06-23T17:32:47.817339Z"
                 }
             ]
         }
