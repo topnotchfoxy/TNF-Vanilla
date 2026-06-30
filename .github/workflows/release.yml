@@ -34,7 +34,7 @@ jobs:
           PACK_NAME=$(jq -r '.name' pakku.json)
           echo "PACK_NAME=$PACK_NAME" >> $GITHUB_ENV
           wget https://github.com/juraj-hrivnak/Pakku/releases/latest/download/pakku.jar
-          java -jar pakku.jar export
+          java -jar pakku.jar export --no-server
           popd
       - name: Publish to Modrinth
         uses: Kira-NT/mc-publish@v3.3
