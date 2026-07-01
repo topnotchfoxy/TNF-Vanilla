@@ -48,9 +48,7 @@
 </details>
 
 <h3>Recommended JVM Arguments</h3>
-<ul>
-    <h4>Java >= 23</h4>
-    <pre><code>-Xms4G -Xmx4G -XX:+UseZGC</code></pre>
-    <h4>Java 21</h4>
-    <pre><code>-Xms4G -Xmx4G -XX:+UseZGC -XX:+ZGenerational</code></pre>
-</ul>
+<h4>Java 23 and up</h4>
+<pre><code>-Xms4G -Xmx4G -XX:+UseZGC</code></pre>
+<h4>Java 21</h4>
+<pre><code>-Xms4G -Xmx4G -XX:+UseZGC -XX:+ZGenerational</code></pre>
