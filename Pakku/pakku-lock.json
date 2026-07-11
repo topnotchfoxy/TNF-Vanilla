@@ -575,7 +575,7 @@
         {
             "pakku_id": "rzlQgEJeiR05PF1x",
             "type": "MOD",
-            "side": "BOTH",
+            "side": "CLIENT",
             "slug": {
                 "modrinth": "zfastnoise"
             },
@@ -1067,7 +1067,7 @@
         {
             "pakku_id": "Vlx08k2Czm7BUwMB",
             "type": "MOD",
-            "side": "BOTH",
+            "side": "CLIENT",
             "slug": {
                 "modrinth": "resourceful-config"
             },
@@ -1271,7 +1271,7 @@
                 "Vlx08k2Czm7BUwMB"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "CLIENT",
             "slug": {
                 "modrinth": "structure-layout-optimizer"
             },
