@@ -1,18 +1,15 @@
 {
   "Generic": {
+    "mapPreview": true,
     "shulkerBoxPreview": true,
-    "shulkerDisplayRequireShift": false,
-    "fontScale": 1.0,
     "useFontShadow": true,
     "useTextBackground": false,
+    "fontScale": 1.0,
     "textPosX": 0,
-    "textPosY": 20
-
+    "textPosY": 0
   },
   "InfoTypeToggles": {
     "infoFacing": false,
-    "infoPing": true,
-    "infoServerTPS": true,
     "infoCoordinates": false,
     "infoTimeIRL": false
   }
