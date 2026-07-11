@@ -1,6 +1,23 @@
 {
   "Generic": {
-    "shulkerDisplayRequireShift": false
+    "toolSwapBetterEnchants": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "toolSwapPreferSilkTouch": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "weaponSwapBetterEnchants": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    }
   },
   "GenericHotkeys": {
     "zoomActivate": {
@@ -9,6 +26,12 @@
   },
   "TweakToggles": {
     "tweakFlexibleBlockPlacement": true,
+    "tweakGammaOverride": true,
     "tweakZoom": true
+  },
+  "TweakHotkeys": {
+    "tweakGammaOverride": {
+      "keys": "G"
+    }
   }
 }
