@@ -573,6 +573,44 @@
             ]
         },
         {
+            "pakku_id": "rzlQgEJeiR05PF1x",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "zfastnoise"
+            },
+            "name": {
+                "modrinth": "Fast Noise"
+            },
+            "id": {
+                "modrinth": "OnlVIpq5"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "zfastnoise-1.0.39+26.2.jar",
+                    "mc_versions": [
+                        "26.2"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/OnlVIpq5/versions/GJk7sVtP/zfastnoise-1.0.39+26.2.jar",
+                    "id": "GJk7sVtP",
+                    "parent_id": "OnlVIpq5",
+                    "hashes": {
+                        "sha512": "33a6c9a9e78e8973b6b485ea3db34e04d06062daf83f3e9146e2a6111e36b68d6c08cfb3a960c0e3dcef6d7a9198d6ed7bd791886efa9fb2f7fe02c0545617f9",
+                        "sha1": "e1772fcd422a5ca6dc139e04d9ba4edcf208b8e2"
+                    },
+                    "required_dependencies": [],
+                    "size": 475361,
+                    "date_published": "2026-07-08T13:01:32.318439Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "lSi2rnEI8H7kA9OU",
             "type": "MOD",
             "side": "CLIENT",
@@ -1027,6 +1065,44 @@
             ]
         },
         {
+            "pakku_id": "Vlx08k2Czm7BUwMB",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "resourceful-config"
+            },
+            "name": {
+                "modrinth": "Resourceful Config"
+            },
+            "id": {
+                "modrinth": "M1953qlQ"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "ResourcefulConfig-5.0.0.jar",
+                    "mc_versions": [
+                        "26.2"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/M1953qlQ/versions/RqoPv70U/ResourcefulConfig-5.0.0.jar",
+                    "id": "RqoPv70U",
+                    "parent_id": "M1953qlQ",
+                    "hashes": {
+                        "sha512": "c9834fbcb557d6f96b99ccafc69346f8da3887cdc4e26f780f9f4fe1c712071bab2e97362ecf69cd308aaafa76ea3cb98e7bee35b61d94addae2797788156457",
+                        "sha1": "e605b530843171786da8f837b4fae728b4d8fb07"
+                    },
+                    "required_dependencies": [],
+                    "size": 443979,
+                    "date_published": "2026-06-18T03:50:08.539631Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "6QLuTSiRlQaI6FPT",
             "type": "MOD",
             "side": "CLIENT",
@@ -1185,6 +1261,53 @@
                     ],
                     "size": 482602,
                     "date_published": "2026-07-10T05:48:22.219199Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Dgo7SI0pROyRsdWQ",
+            "pakku_links": [
+                "yLSfRN69vcd1WJm9",
+                "Vlx08k2Czm7BUwMB"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "structure-layout-optimizer"
+            },
+            "name": {
+                "modrinth": "Structure Layout Optimizer"
+            },
+            "id": {
+                "modrinth": "ayPU0OHc"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "structure_layout_optimizer-1.1.4+26.1-fabric.jar",
+                    "mc_versions": [
+                        "26.1",
+                        "26.1.1",
+                        "26.1.2",
+                        "26.2"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ayPU0OHc/versions/JwbecFqq/structure_layout_optimizer-1.1.4+26.1-fabric.jar",
+                    "id": "JwbecFqq",
+                    "parent_id": "ayPU0OHc",
+                    "hashes": {
+                        "sha512": "d0a443e5a71dc6a40f6345b49b73aee5290d5726f68a5b05d3b31b9ff71262dd2986518df8a560f2097e7584b944ff462d621499f5dede10afa624a34359e8cc",
+                        "sha1": "4a0fc84879fe358bdfd395af9238e14950dca748"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "M1953qlQ"
+                    ],
+                    "size": 71476,
+                    "date_published": "2026-03-25T00:23:46.303256Z"
                 }
             ]
         },
