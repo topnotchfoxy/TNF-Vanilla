@@ -1,0 +1,10 @@
+{
+  "Generic": {
+    "sortInventoryToggle": true
+  },
+  "Hotkeys": {
+    "openConfigGui": {
+      "keys": ""
+    }
+  }
+}

@@ -448,89 +448,6 @@
             ]
         },
         {
-            "pakku_id": "MFoCFKLdjdqCUSBD",
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "modrinth": "fabric-language-kotlin"
-            },
-            "name": {
-                "modrinth": "Fabric Language Kotlin"
-            },
-            "id": {
-                "modrinth": "Ha28R6CL"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
-                    "mc_versions": [
-                        "1.14",
-                        "1.14.1",
-                        "1.14.2",
-                        "1.14.3",
-                        "1.14.4",
-                        "1.15",
-                        "1.15.1",
-                        "1.15.2",
-                        "1.16",
-                        "1.16.1",
-                        "1.16.2",
-                        "1.16.3",
-                        "1.16.4",
-                        "1.16.5",
-                        "1.17",
-                        "1.17.1",
-                        "1.18",
-                        "1.18.1",
-                        "1.18.2",
-                        "1.19",
-                        "1.19.1",
-                        "1.19.2",
-                        "1.19.3",
-                        "1.19.4",
-                        "1.20",
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4",
-                        "1.20.5",
-                        "1.20.6",
-                        "1.21",
-                        "1.21.1",
-                        "1.21.2",
-                        "1.21.3",
-                        "1.21.4",
-                        "1.21.5",
-                        "1.21.6",
-                        "1.21.7",
-                        "1.21.8",
-                        "1.21.9",
-                        "1.21.10",
-                        "1.21.11",
-                        "26.1",
-                        "26.1.1",
-                        "26.1.2",
-                        "26.2"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/Pd0xrHCw/fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
-                    "id": "Pd0xrHCw",
-                    "parent_id": "Ha28R6CL",
-                    "hashes": {
-                        "sha512": "ca238ee480dfb237062200fd300be493d022e0837b6998c15807e01488b2a30d5ba4731e5c6d05a5333719c8923a1cb84c06fd6fa45aa88ced492ddb5b40906f",
-                        "sha1": "2bc17bb4275cc70a12e4ac35d139a71a30845720"
-                    },
-                    "required_dependencies": [],
-                    "size": 8076848,
-                    "date_published": "2026-06-03T10:40:44.954667Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "jYdrfG2N6FSzl6LF",
             "type": "MOD",
             "side": "CLIENT",
@@ -689,52 +606,6 @@
             ]
         },
         {
-            "pakku_id": "oEOWcFKLYfArFr78",
-            "pakku_links": [
-                "yLSfRN69vcd1WJm9",
-                "6BZ6vzCwvrAPrj5j",
-                "MFoCFKLdjdqCUSBD"
-            ],
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "modrinth": "inventory-profiles-next"
-            },
-            "name": {
-                "modrinth": "Inventory Profiles Next"
-            },
-            "id": {
-                "modrinth": "O7RBXm3n"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "InventoryProfilesNext-fabric-26.2-2.3.5.jar",
-                    "mc_versions": [
-                        "26.2"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/Eg2NTcSJ/InventoryProfilesNext-fabric-26.2-2.3.5.jar",
-                    "id": "Eg2NTcSJ",
-                    "parent_id": "O7RBXm3n",
-                    "hashes": {
-                        "sha512": "199ece4f299caba0a4cc22001ef1a05e59df8e6d9fbaae921920a85d967284e5cd89eeffe6cf9be8b32ee02d8b7e18bd3d95082a402e756d5980beb88aad8e45",
-                        "sha1": "c1278ddd631b3aa05480028585420f13eb7b4623"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH",
-                        "Ha28R6CL",
-                        "onSQdWhM"
-                    ],
-                    "size": 1461780,
-                    "date_published": "2026-06-30T13:10:34.874749Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "FbUh5mbzPRat6hCK",
             "pakku_links": [
                 "Vl962DNaqUmIWOHV",
@@ -778,6 +649,48 @@
             ]
         },
         {
+            "pakku_id": "TBEh26rFbeu6v6iD",
+            "pakku_links": [
+                "6mqrkYG1tmvKXjw5"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "item-scroller"
+            },
+            "name": {
+                "modrinth": "Item Scroller"
+            },
+            "id": {
+                "modrinth": "JygyCSA4"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "itemscroller-fabric-26.2-0.32.1.jar",
+                    "mc_versions": [
+                        "26.2"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/JygyCSA4/versions/yAj3ZLjM/itemscroller-fabric-26.2-0.32.1.jar",
+                    "id": "yAj3ZLjM",
+                    "parent_id": "JygyCSA4",
+                    "hashes": {
+                        "sha512": "75fc7ada8fb9858270d03ae521f3a8e66936fdc02352a691f2b4bf399fea449ea644bb55972e3fad5160be12a98285904fd080f9905574de6454fcaa90e54514",
+                        "sha1": "d25fc918a458b41d0e350726b7f857f8e3f8e7f1"
+                    },
+                    "required_dependencies": [
+                        "GcWjdA9I"
+                    ],
+                    "size": 216323,
+                    "date_published": "2026-06-27T17:32:48.021258Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "tk2Sh9nGHs1OwvLn",
             "type": "MOD",
             "side": "CLIENT",
@@ -814,49 +727,6 @@
                     ],
                     "size": 1032857,
                     "date_published": "2026-06-30T17:23:06.362733Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "3TjBHcedOS9V7tx8",
-            "pakku_links": [
-                "yLSfRN69vcd1WJm9"
-            ],
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "modrinth": "journeymap"
-            },
-            "name": {
-                "modrinth": "JourneyMap"
-            },
-            "id": {
-                "modrinth": "lfHFW1mp"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "journeymap-fabric-26.2-6.0.0.jar",
-                    "mc_versions": [
-                        "26.2"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/DGSSf530/journeymap-fabric-26.2-6.0.0.jar",
-                    "id": "DGSSf530",
-                    "parent_id": "lfHFW1mp",
-                    "hashes": {
-                        "sha512": "3e3ad183e3f058ec523ac6ad8b120b798dee6998dee63bd70ff3da5f7ff239f699dad765ab49d5fd89c5fb98b9e0c44b75fc1fc6148dc01925e2d0b748d3cbf0",
-                        "sha1": "c7d1f6833c23afd5ae704236ebb0ff280c74e301"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH"
-                    ],
-                    "size": 4175066,
-                    "date_published": "2026-06-26T19:48:04.140597Z"
                 }
             ]
         },
@@ -1589,50 +1459,6 @@
                     "required_dependencies": [],
                     "size": 120931,
                     "date_published": "2026-06-20T11:30:21.307176Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "6BZ6vzCwvrAPrj5j",
-            "pakku_links": [
-                "MFoCFKLdjdqCUSBD",
-                "yLSfRN69vcd1WJm9"
-            ],
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "modrinth": "libipn"
-            },
-            "name": {
-                "modrinth": "libIPN"
-            },
-            "id": {
-                "modrinth": "onSQdWhM"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "libIPN-fabric-26.2-6.8.2.jar",
-                    "mc_versions": [
-                        "26.2"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/uRP0v1wY/libIPN-fabric-26.2-6.8.2.jar",
-                    "id": "uRP0v1wY",
-                    "parent_id": "onSQdWhM",
-                    "hashes": {
-                        "sha512": "cf1ad33ea398bab7d44e0c61168cd4866d207d0ffca2a742583cf1943a4a8447f2609143b2a30326654699763094c196edae505cd7ab87b26c7b69c575fa2ebc",
-                        "sha1": "0915dc94c81044025f43a1ab2118b2c6c8a97710"
-                    },
-                    "required_dependencies": [
-                        "Ha28R6CL",
-                        "P7dR8mSH"
-                    ],
-                    "size": 630245,
-                    "date_published": "2026-06-30T12:47:45.860961Z"
                 }
             ]
         },
