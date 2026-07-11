@@ -2,8 +2,9 @@
 ![Modrinth Downloads](https://img.shields.io/modrinth/dt/Ohwb2cTF?label=Downloads&logo=modrinth&style=flat-square)
 [![Discord](https://img.shields.io/discord/607123183249653770?label=Discord&logo=discord&style=flat-square)](https://discord.gg/Yj9WH3P8RN)
 
-<h3>About</h3>
-    TNF-Vanilla is a Modpack that use <a href="https://modrinth.com/project/Er2bMzL7">WindBreaker</a> as a high performance template plus other QOL mods to make your singleplayer worlds or vanilla style servers workflow much easier and smoother
+### About
+TNF-Vanilla is a modpack that create based on a high performance modpack template [WindBreaker](https://modrinth.com/project/Er2bMzL7)(which is also created by me), and plus other mods to does many things easier and faster like building massive redstone machines or trade villager faster.  
+The modpack is mostly design to play vanilla style singleplayer or servers.
 
 <h3>Features</h3>
 <details>
@@ -27,10 +28,6 @@
     <img src="https://cdn.modrinth.com/data/Ohwb2cTF/images/2ab667480e7600405fc5c2f115666e9112bf8dae.webp">
 </details>
 <details>
-    <summary>MiniMap (<a href="https://modrinth.com/project/lfHFW1mp">JourneyMap</a>)</summary>
-    <img src="https://cdn.modrinth.com/data/Ohwb2cTF/images/8b5c754e62c01c3973b402860d8dde9be95199ba.webp">
-</details>
-<details>
     <summary>Shaders (<a href="https://modrinth.com/project/YL57xq9U">Iris Shaders</a>)</summary>
     <img src="https://cdn.modrinth.com/data/Ohwb2cTF/images/ba934effc29f300a5ef4bf574601a9d2df1ddb42.webp">
 </details>
@@ -39,16 +36,31 @@
     <img src="https://cdn.modrinth.com/data/Ohwb2cTF/images/1a3443c3e9e9cd872452c94e8f3f55d55922b315.webp">
 </details>
 <details>
-    <summary>Technical QOL (<a href="https://modrinth.com/project/TQTTVgYE">Carpet</a>, <a href="https://modrinth.com/project/UMxybHE8">MiniHUD</a>, <a href="https://modrinth.com/project/t5wuYk45">Tweakeroo</a>)</summary>MiniHUD
-    <img src="https://cdn.modrinth.com/data/Ohwb2cTF/images/0bd5442f198ed513462d03301b74f1dd736ad83c.webp"><br>Tweakeroo<img src="https://cdn.modrinth.com/data/Ohwb2cTF/images/3f2227b5725a32db223e125c18da3e2e0d02598c.webp">
+    <summary>Technical QOL (<a href="https://modrinth.com/project/TQTTVgYE">Carpet</a>, <a href="https://modrinth.com/project/JygyCSA4">Item Scroller</a>, <a href="https://modrinth.com/project/UMxybHE8">MiniHUD</a>, <a href="https://modrinth.com/project/t5wuYk45">Tweakeroo</a>)</summary>
+    MiniHUD
+    <br><img src="https://cdn.modrinth.com/data/Ohwb2cTF/images/77081af7592e86e06b55ab7cca8eb403c4c4029c.webp"><br>
+    Tweakeroo
+    <br><img src="https://cdn.modrinth.com/data/Ohwb2cTF/images/3f2227b5725a32db223e125c18da3e2e0d02598c.webp"><br>
 </details>
 <details>
     <summary>What Am I Looking At (<a href="https://modrinth.com/project/nvQzSEkH">Jade 🔍</a>)</summary>
     <img src="https://cdn.modrinth.com/data/Ohwb2cTF/images/23491aa7b1130292792ba81f733356bf2ac95899.webp">
 </details>
 
-<h3>Recommended JVM Arguments</h3>
-<h4>Java 23 and up</h4>
-<pre><code>-Xms4G -Xmx4G -XX:+UseZGC</code></pre>
-<h4>Java 21</h4>
-<pre><code>-Xms4G -Xmx4G -XX:+UseZGC -XX:+ZGenerational</code></pre>
+### Keybinds
+- Press `C` to zoom
+- Press `R` while in backpack or chest ui to sort items
+- Press `G` to toggle gamma override (Fullbright)
+- Hold `Shift` while hover at map or shulkerbox to preview
+- Hold `Ctrl` to place block in different offsets
+- Hold `Alt` to place block in different rotations
+
+### Recommended JVM Arguments
+**Java 23 and up**
+```
+-Xms4G -Xmx4G -XX:+UseZGC
+```
+**Java 21**
+```
+-Xms4G -Xmx4G -XX:+UseZGC -XX:+ZGenerational
+```
