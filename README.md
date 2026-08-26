@@ -56,6 +56,10 @@ The modpack is mostly design to play vanilla style singleplayer or servers.
 - Hold `Alt` to place block in different rotations
 
 ### Recommended JVM Arguments
+**Java 25 and up**
+```
+-Xms4G -Xmx4G -XX:+UseZGC -XX:+UseCompactObjectHeaders
+```
 **Java 23 and up**
 ```
 -Xms4G -Xmx4G -XX:+UseZGC
