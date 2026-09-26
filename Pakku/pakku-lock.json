@@ -974,7 +974,8 @@
         {
             "pakku_id": "fjV2NGyT8KReAMcu",
             "pakku_links": [
-                "yLSfRN69vcd1WJm9"
+                "yLSfRN69vcd1WJm9",
+                "jsH2OHkNMg4cPy2c"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -1254,6 +1255,48 @@
                     "required_dependencies": [],
                     "size": 409480,
                     "date_published": "2026-09-15T15:50:23.000274Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "jsH2OHkNMg4cPy2c",
+            "pakku_links": [
+                "yLSfRN69vcd1WJm9"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "yacl"
+            },
+            "name": {
+                "modrinth": "YetAnotherConfigLib (YACL)"
+            },
+            "id": {
+                "modrinth": "1eAoo2KR"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "yet_another_config_lib_v3-3.9.7+26.3-fabric.jar",
+                    "mc_versions": [
+                        "26.3"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/s9SjoFu1/yet_another_config_lib_v3-3.9.7+26.3-fabric.jar",
+                    "id": "s9SjoFu1",
+                    "parent_id": "1eAoo2KR",
+                    "hashes": {
+                        "sha512": "f3957028dd31cae78f08aee3e768f61bd12c4c8423257d357bc3c1a2172047c769d37901f99775c7ffff1e5ee794025dc72738b2869cab06f1c2811841d68b24",
+                        "sha1": "e54d86dd4a78f95cd6ec0309d96fae01e661c00d"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 1125377,
+                    "date_published": "2026-09-20T23:11:34.251964Z"
                 }
             ]
         },
