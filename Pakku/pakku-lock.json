@@ -897,6 +897,43 @@
             ]
         },
         {
+            "pakku_id": "I0ADP2dkkeFt0BRD",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "rsls"
+            },
+            "name": {
+                "modrinth": "Raise Sound Limit Simplified"
+            },
+            "id": {
+                "modrinth": "SKW62Pht"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "rsls-1.4.0.jar",
+                    "mc_versions": [
+                        "26.3"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/SKW62Pht/versions/2sa9UZP2/rsls-1.4.0.jar",
+                    "id": "2sa9UZP2",
+                    "parent_id": "SKW62Pht",
+                    "hashes": {
+                        "sha512": "f04fcfd29d52de8a60f5f24849ec90f32b97d6c8bc70ca37110ed5a8325976ef3b91b971653e169e1ad6bc2372dc08326e807d76ddb337430275c796961ed888",
+                        "sha1": "60a95072fa946fa23eec1927b8370593e89d1fd8"
+                    },
+                    "required_dependencies": [],
+                    "size": 51298,
+                    "date_published": "2026-09-28T08:56:13.485799Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Vlx08k2Czm7BUwMB",
             "type": "MOD",
             "side": "CLIENT",
