@@ -695,6 +695,49 @@
             ]
         },
         {
+            "pakku_id": "TtrmlPHQjEakl7fJ",
+            "pakku_links": [
+                "yLSfRN69vcd1WJm9"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "language-reload"
+            },
+            "name": {
+                "modrinth": "Language Reload"
+            },
+            "id": {
+                "modrinth": "uLbm7CG6"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "language-reload-1.7.8+26.3.jar",
+                    "mc_versions": [
+                        "26.3"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/uLbm7CG6/versions/QVn4cccd/language-reload-1.7.8+26.3.jar",
+                    "id": "QVn4cccd",
+                    "parent_id": "uLbm7CG6",
+                    "hashes": {
+                        "sha512": "6366596875e9fa33b6b8119d08e5c18f3514662e319a735cedc8addb00bff4cf3179f3a33533b2070c1ddd776f23e6a5f22b69d0da0589f3091f0db9eead1d43",
+                        "sha1": "e6fd2df83d1d3d0f352a7e45eaf76f4551c136f2"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 79325,
+                    "date_published": "2026-10-04T00:34:02.963336Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "EtkdHf8pu9ic4RfR",
             "type": "MOD",
             "side": "CLIENT",
