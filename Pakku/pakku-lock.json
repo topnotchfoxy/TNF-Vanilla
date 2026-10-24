@@ -4,7 +4,7 @@
         "26.3"
     ],
     "loaders": {
-        "fabric": "0.19.5"
+        "fabric": "0.20.1"
     },
     "projects": [
         {
@@ -26,7 +26,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "skinlayers3d-fabric-1.11.3-mc26.3.jar",
+                    "file_name": "skinlayers3d-fabric-1.11.4-mc26.3.jar",
                     "mc_versions": [
                         "26.3"
                     ],
@@ -34,18 +34,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/G8BCRxv5/skinlayers3d-fabric-1.11.3-mc26.3.jar",
-                    "id": "G8BCRxv5",
+                    "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/gjM2TO0L/skinlayers3d-fabric-1.11.4-mc26.3.jar",
+                    "id": "gjM2TO0L",
                     "parent_id": "zV5r3pPn",
                     "hashes": {
-                        "sha512": "5217aac8fc55952d5837932fbad3eb2d8a2211a57ff602db9be7a0e2678ea90f11cc5c37d4e44abee835f7831508af770c1ba6334dd2933290fe6699978f4118",
-                        "sha1": "31ee367d5900d20a77c9c610cdd6dc9361c26865"
+                        "sha512": "1a93ba9f726f8053e111abbe225f67b85e74bdfb78955711218ef103e670bc2c0f011f5911bf725686b79a1b85cecbb1ba733bf1b2eaa2856e53c4f842680627",
+                        "sha1": "1eef5b7a4b931c236c117def1c6b867be0443116"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 1890220,
-                    "date_published": "2026-09-17T20:05:45.920640Z"
+                    "size": 1892299,
+                    "date_published": "2026-10-18T17:15:15.334532Z"
                 }
             ]
         },
@@ -94,7 +94,8 @@
                 "L3BozWhWbUrNmri1",
                 "hG6nbbSiFDyyE0Ij",
                 "gitWGmhZJaHX1YAS",
-                "6nmPRuCTNs4KSfxm"
+                "6nmPRuCTNs4KSfxm",
+                "vFCmO0WWnYKiRDUe"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -110,7 +111,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "bbe-fabric-1.3.9+mc26.3-mod.jar",
+                    "file_name": "bbe-fabric-1.4.0+mc26.3-mod.jar",
                     "mc_versions": [
                         "26.3"
                     ],
@@ -118,18 +119,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/ONZm0H7Y/versions/9VvhfLcA/bbe-fabric-1.3.9+mc26.3-mod.jar",
-                    "id": "9VvhfLcA",
+                    "url": "https://cdn.modrinth.com/data/ONZm0H7Y/versions/FU2tstk7/bbe-fabric-1.4.0+mc26.3-mod.jar",
+                    "id": "FU2tstk7",
                     "parent_id": "ONZm0H7Y",
                     "hashes": {
-                        "sha512": "dbad4387672fea686a6610ac238d0243fdbce718bed3aafc6006068bf769df2eea8f2c7189f5cb3835008f11eb9c767f1e2eaf436c67bddc17fb8607af26dd88",
-                        "sha1": "151330c3ea5a1c93e841ea4cda0788c93b5b986d"
+                        "sha512": "061404c7a546fcf97b1e95c84be6538634ef8a64c38c50ab52413bc30eb3ca631d70469ec9a5ec6e701bbfbbd9779d65a3a70e359e80d8c36449ff2a2d286cab",
+                        "sha1": "ef6cb9b2a7c2074e35a5994953f773e043070df3"
                     },
                     "required_dependencies": [
                         "AANobbMI"
                     ],
-                    "size": 207630,
-                    "date_published": "2026-09-15T19:02:07.538594Z"
+                    "size": 207605,
+                    "date_published": "2026-10-16T02:33:56.246068Z"
                 }
             ]
         },
@@ -149,7 +150,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "betterstats-5.6.0-beta.2+fn-26.3.jar",
+                    "file_name": "betterstats-5.8.0+fn-26.3.jar",
                     "mc_versions": [
                         "26.3"
                     ],
@@ -157,19 +158,19 @@
                         "fabric",
                         "neoforge"
                     ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/n6PXGAoM/versions/9bTgB5wS/betterstats-5.6.0-beta.2+fn-26.3.jar",
-                    "id": "9bTgB5wS",
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/n6PXGAoM/versions/GSF3fkG9/betterstats-5.8.0+fn-26.3.jar",
+                    "id": "GSF3fkG9",
                     "parent_id": "n6PXGAoM",
                     "hashes": {
-                        "sha512": "7edb8d61555bf5f5bb4aab4316ae30dd0e91816a04e4064f60e81a802f350641d4042a613ab04a9575c28caaca6c474cb72e58bb6f18f0924749a53a9e9537b7",
-                        "sha1": "53d859f95b2ef78b8663f45a600c9a5eb07b8c09"
+                        "sha512": "f4352c27f3c60e0bd93d5f3bb7ab2d7078164332933fe1d03cec4e8b795cc484458fbe4651eda10aade89dc20226beaf27d935d891b3f3e648fc07e44fee68ab",
+                        "sha1": "5a2f06f60a24c3c89de38824dcb8c263eff11ef2"
                     },
                     "required_dependencies": [
                         "Eldc1g37"
                     ],
-                    "size": 410777,
-                    "date_published": "2026-09-27T20:55:58.018667Z"
+                    "size": 423129,
+                    "date_published": "2026-10-24T14:47:28.758154Z"
                 }
             ]
         },
@@ -263,7 +264,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "c2me-fabric-mc26.3-0.4.2-alpha.0.89.jar",
+                    "file_name": "c2me-fabric-mc26.3-0.4.2-alpha.0.106.jar",
                     "mc_versions": [
                         "26.3"
                     ],
@@ -271,16 +272,16 @@
                         "fabric"
                     ],
                     "release_type": "alpha",
-                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/FXjQDzq7/c2me-fabric-mc26.3-0.4.2-alpha.0.89.jar",
-                    "id": "FXjQDzq7",
+                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/gKKkuSYc/c2me-fabric-mc26.3-0.4.2-alpha.0.106.jar",
+                    "id": "gKKkuSYc",
                     "parent_id": "VSNURh3q",
                     "hashes": {
-                        "sha512": "b4fcf82bbe15bfa253e3ab6df4d6b64e800a2ccdb45d4ca2b8040da87f72033fed34f4f94016aac507596c78fddb18dba28c6642790181642cae46fae28b3a85",
-                        "sha1": "1aa0ea7893737a54f855b1c04ff93f2f68c1fa80"
+                        "sha512": "047ed3fe3869d0185c6d1e94fd1e725b2ad40047e4929f22692090570af28d0075849cb65335b602658859c7d437cce51c94082c0c798617314764cfdc0a1d71",
+                        "sha1": "4223867c5a493b4206027e84234460506dae5a57"
                     },
                     "required_dependencies": [],
-                    "size": 3950208,
-                    "date_published": "2026-10-01T16:32:22.241319Z"
+                    "size": 4195982,
+                    "date_published": "2026-10-17T15:56:23.604887Z"
                 }
             ]
         },
@@ -345,7 +346,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "entityculling-fabric-1.11.2-mc26.3.jar",
+                    "file_name": "entityculling-fabric-1.11.3-mc26.3.jar",
                     "mc_versions": [
                         "26.3"
                     ],
@@ -353,18 +354,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/F4loCvYt/entityculling-fabric-1.11.2-mc26.3.jar",
-                    "id": "F4loCvYt",
+                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/X1g3VhTx/entityculling-fabric-1.11.3-mc26.3.jar",
+                    "id": "X1g3VhTx",
                     "parent_id": "NNAgCjsB",
                     "hashes": {
-                        "sha512": "c5d8947cb022f8baed4bf17e38ca598c56b8049871e7e47fb462bcecc9bc01e7eb75290494199fcb1aa73f5e37f93a296211ba78c9dd2a5bff30d5eed497ebcc",
-                        "sha1": "f2196e803fe77cfbb62c4a2acb64803d98b4f61c"
+                        "sha512": "b6209bb62d72376d3fd284da137ec93a6dd38ebe5fd38ab9190deeade68b5b7f4bf915f4abcb4a807afe18cb9f0b59e11be789d46df6f0e6f64388ed2edc284d",
+                        "sha1": "45f47f7a067f5efd733a32767dc3d1d770678b2a"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 1508273,
-                    "date_published": "2026-09-21T19:47:07.296563Z"
+                    "size": 1508547,
+                    "date_published": "2026-10-08T16:52:21.200337Z"
                 }
             ]
         },
@@ -384,7 +385,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "fabric-api-0.161.0+26.3.jar",
+                    "file_name": "fabric-api-0.165.0+26.3.jar",
                     "mc_versions": [
                         "26.3"
                     ],
@@ -392,16 +393,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/bNnaTiuM/fabric-api-0.161.0+26.3.jar",
-                    "id": "bNnaTiuM",
+                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/EQKgpeKu/fabric-api-0.165.0+26.3.jar",
+                    "id": "EQKgpeKu",
                     "parent_id": "P7dR8mSH",
                     "hashes": {
-                        "sha512": "ed6b2586d6fde11fde8472f5a527c51e99b67026e46f94d4bfd85e7e28ce5ee299173ee16ad576ceb51f39f98d30a811086a6deb1a86a524859cc16e12da109d",
-                        "sha1": "53f9ee02c3702734d90520aa8c9719bf0e1c8d4f"
+                        "sha512": "0a4b8a14e847b71567b557b43d906c2167fa263eeeef37454a821ba286996e3da1616dc2d9647736d28a250d5ecf400541cae808359b29a62324a8a6f2ad5e30",
+                        "sha1": "8f8a23d6c9fbf7b075b31b4fb0a1007b0488d1d2"
                     },
                     "required_dependencies": [],
-                    "size": 2620967,
-                    "date_published": "2026-09-18T17:36:49.548962Z"
+                    "size": 1778588,
+                    "date_published": "2026-10-23T08:35:46.648085Z"
                 }
             ]
         },
@@ -573,7 +574,8 @@
                 "L3BozWhWbUrNmri1",
                 "hG6nbbSiFDyyE0Ij",
                 "gitWGmhZJaHX1YAS",
-                "6nmPRuCTNs4KSfxm"
+                "6nmPRuCTNs4KSfxm",
+                "vFCmO0WWnYKiRDUe"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -994,7 +996,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "ResourcefulConfig-6.0.1.jar",
+                    "file_name": "ResourcefulConfig-6.0.2.jar",
                     "mc_versions": [
                         "26.3"
                     ],
@@ -1002,16 +1004,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/M1953qlQ/versions/IFB0XCI9/ResourcefulConfig-6.0.1.jar",
-                    "id": "IFB0XCI9",
+                    "url": "https://cdn.modrinth.com/data/M1953qlQ/versions/t3odHyFJ/ResourcefulConfig-6.0.2.jar",
+                    "id": "t3odHyFJ",
                     "parent_id": "M1953qlQ",
                     "hashes": {
-                        "sha512": "35d9e21c6a5680448380731bfaf6678654f255b34a96230766a204fc7b711c737c78707c886bec529f4e7c532f190b2c48875c221b8440afd69afba6bb5bf9a8",
-                        "sha1": "55c3c414ee21bf2aeb381df612bc61e864c3dfd5"
+                        "sha512": "916bafc4df592d15f269db169c16d604d2c7e726fb3c4230caeff0fc5c53ef1bfd30e80dce34ffcc32cdc210544333c121351f5da50a27bf0e9c794e58575025",
+                        "sha1": "c66b02799463e57baf8c9fa8979b2cf167e284b8"
                     },
                     "required_dependencies": [],
-                    "size": 444083,
-                    "date_published": "2026-09-19T23:04:22.287348Z"
+                    "size": 444092,
+                    "date_published": "2026-10-07T04:07:03.982311Z"
                 }
             ]
         },
@@ -1096,7 +1098,7 @@
             ]
         },
         {
-            "pakku_id": "6nmPRuCTNs4KSfxm",
+            "pakku_id": "vFCmO0WWnYKiRDUe",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -1139,7 +1141,8 @@
                 "L3BozWhWbUrNmri1",
                 "hG6nbbSiFDyyE0Ij",
                 "gitWGmhZJaHX1YAS",
-                "6nmPRuCTNs4KSfxm"
+                "6nmPRuCTNs4KSfxm",
+                "vFCmO0WWnYKiRDUe"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -1238,7 +1241,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "tcdcommons-5.6.0-beta.2+fn-26.3.jar",
+                    "file_name": "tcdcommons-5.8.0+fn-26.3.jar",
                     "mc_versions": [
                         "26.3"
                     ],
@@ -1246,17 +1249,17 @@
                         "fabric",
                         "neoforge"
                     ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/Eldc1g37/versions/FwE7UAgA/tcdcommons-5.6.0-beta.2+fn-26.3.jar",
-                    "id": "FwE7UAgA",
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Eldc1g37/versions/GVSkIJY4/tcdcommons-5.8.0+fn-26.3.jar",
+                    "id": "GVSkIJY4",
                     "parent_id": "Eldc1g37",
                     "hashes": {
-                        "sha512": "39adb15641f7ac8e6d54bcb2c1ee135e403266f3942f51d030949b612f1f6c5a56052d30f9c30ae33c091471fe4c94d7ae8d8613d61a986417259a9a5029854d",
-                        "sha1": "73973705825ac487a84843656d37bcaf4709890a"
+                        "sha512": "adc5b07d91700fe27d2b3c7a482e2fed968705ccf1af69bfecb37895265872740f0766d340549e4f92ff6a75143ec9a621cba64d4a81a31e0e041a73fe37fd81",
+                        "sha1": "b9fde00565d227faba6d6b00aff70e37fa695dc6"
                     },
                     "required_dependencies": [],
-                    "size": 508304,
-                    "date_published": "2026-09-27T20:54:53.750134Z"
+                    "size": 510530,
+                    "date_published": "2026-10-24T14:46:29.759083Z"
                 }
             ]
         },
