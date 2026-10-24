@@ -175,6 +175,50 @@
             ]
         },
         {
+            "pakku_id": "D0ebv6YVJtqmXoOe",
+            "pakku_links": [
+                "yLSfRN69vcd1WJm9",
+                "jsH2OHkNMg4cPy2c"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "bettertab"
+            },
+            "name": {
+                "modrinth": "Better Tab"
+            },
+            "id": {
+                "modrinth": "OSMu7zRz"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "bettertab-2.3.0+26.3.jar",
+                    "mc_versions": [
+                        "26.3"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/OSMu7zRz/versions/oOUd5fkv/bettertab-2.3.0+26.3.jar",
+                    "id": "oOUd5fkv",
+                    "parent_id": "OSMu7zRz",
+                    "hashes": {
+                        "sha512": "3fd073e442a7af13b2ca09d111d2631ecf4e7fdfe8a0b1f62a8714f579bd139166f73e79a9cbac98ce52a392c11efa2c8210caffbbc9a7d826161d23c6bbdac6",
+                        "sha1": "e5c622d5655039f885612190dce5ecb818b353b5"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "1eAoo2KR"
+                    ],
+                    "size": 53688,
+                    "date_published": "2026-10-22T14:00:53.238480Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "1vgqinkr20wQXnFL",
             "type": "MOD",
             "side": "CLIENT",
@@ -1633,6 +1677,50 @@
                     "required_dependencies": [],
                     "size": 120517,
                     "date_published": "2026-09-19T16:54:43.713423Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "zKngL1CtgF7fN0Rc",
+            "pakku_links": [
+                "vFCmO0WWnYKiRDUe",
+                "yLSfRN69vcd1WJm9"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "voxy"
+            },
+            "name": {
+                "modrinth": "voxy"
+            },
+            "id": {
+                "modrinth": "fxxUqruK"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "voxy-0.2.20-beta.jar",
+                    "mc_versions": [
+                        "26.3"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/fxxUqruK/versions/iIrM8ZKQ/voxy-0.2.20-beta.jar",
+                    "id": "iIrM8ZKQ",
+                    "parent_id": "fxxUqruK",
+                    "hashes": {
+                        "sha512": "ab502017b3241e1307717ca426ba564f1450ddb7d9d37e95759e57ee5edc7cb014aa48628f51f6010ffd2a410dadf1f4eea7ba86c0da6233059c0a6120157a01",
+                        "sha1": "a0efa54716b0fcbf4075cc18f4dbfbdc3b0cf305"
+                    },
+                    "required_dependencies": [
+                        "AANobbMI",
+                        "P7dR8mSH"
+                    ],
+                    "size": 12668812,
+                    "date_published": "2026-10-19T17:51:51.526548Z"
                 }
             ]
         }
